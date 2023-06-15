@@ -1,0 +1,151 @@
+:root {
+  /* 标题 */
+  --title-color: rgba(0, 0, 0, 0.85);
+  /* 正文 */
+  --text-color: rgba(0, 0, 0, 0.65);
+  /* 次要文字 */
+  --sub-text-color: rgba(0, 0, 0, 0.45);
+  /* 不可点文字 */
+  --disable-text-color: rgba(0, 0, 0, 0.25);
+  /* 线的颜色 */
+  --line-color: rgba(0, 0, 0, 0.1);
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+html,
+body {
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  overflow: hidden;
+}
+body {
+  color: rgb(var(--foreground-rgb));
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+#root {
+  width: 100%;
+  height: 100%;
+}
+
+.main-TIEcrk {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+.container-U3ibPz {
+  max-width: 1020px;
+  margin: 0 auto;
+}
+.container-U3ibPz .header-ywc7Hh {
+  text-align: center;
+  padding: 16px 0 32px;
+  border-bottom: 1px solid #eee;
+  margin: 0 32px 16px;
+}
+.container-U3ibPz .header-ywc7Hh h1 {
+  margin: 0;
+  color: #444;
+  font-weight: 300;
+  font-size: 48px;
+}
+.container-U3ibPz .header-ywc7Hh h2 {
+  margin: 0;
+  color: #666;
+  font-weight: 300;
+  font-size: 20px;
+}
+.container-U3ibPz .translate-jjQfCK {
+  display: flex;
+}
+.container-U3ibPz .translate-jjQfCK .wrap-cXZG3_ {
+  flex: 1;
+  margin: 16px 32px;
+  position: relative;
+}
+.container-U3ibPz .translate-jjQfCK .wrap-cXZG3_ h3 {
+  font-size: 20px;
+  margin: 0 0 4px;
+  font-weight: 600;
+}
+.container-U3ibPz .translate-jjQfCK .wrap-cXZG3_ .textArea-gOVk_S {
+  resize: none;
+  height: auto;
+  padding: 12px 16px;
+  font-size: 20px;
+  border-radius: 2px;
+}
+.container-U3ibPz .translate-jjQfCK .wrap-cXZG3_ .btn-Am_iV3 {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+}
+.container-U3ibPz .translate-jjQfCK .wrap-cXZG3_ .ant-btn {
+  border-radius: 2px;
+}
+.container-U3ibPz .translate-jjQfCK .wrap-cXZG3_ .ant-btn-default.ant-btn-background-ghost {
+  color: #aaa;
+  border-color: #aaa;
+}
+.container-U3ibPz .translate-jjQfCK .wrap-cXZG3_ .ant-btn-default.ant-btn-background-ghost:hover {
+  color: #4096ff;
+  border-color: #4096ff;
+}
+
+.container-CTqfJn {
+  height: 100vh;
+  width: 100%;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-oCRB71 {
+  height: 100vh;
+  width: 100%;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-Ugr_l4 {
+  height: 100vh;
+  width: 100%;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.layout-zy78ld {
+  width: 100%;
+  height: 100%;
+}
+.layout-zy78ld .ant-tabs-tabpane {
+  padding: 0 !important;
+}
+
+.logo-3OESmO {
+  font-family: myriad pro, Verdana, Arial, Helvetica, sans-serif;
+  font-size: 28px;
+  text-transform: uppercase;
+  color: #000;
+  letter-spacing: 4px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  text-shadow: 1px 1px 0 #ccc, 2px 2px 0 #ccc, 3px 3px 0 #444, 4px 4px 0 #444, 5px 5px 0 #444, 6px 6px 0 #444, 5px 5px 15px #999;
+}
+
