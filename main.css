@@ -40,48 +40,48 @@ a {
   position: relative;
 }
 
-.container-U3ibPz {
+.container-G44ZVx {
   max-width: 1020px;
   margin: 0 auto;
   height: 100%;
   display: flex;
   flex-direction: column;
 }
-.container-U3ibPz .header-ywc7Hh {
+.container-G44ZVx .header-yeRa9z {
   text-align: center;
   padding: 16px 0 32px;
   border-bottom: 1px solid #eee;
   margin: 16px 32px 16px;
 }
-.container-U3ibPz .header-ywc7Hh h1 {
+.container-G44ZVx .header-yeRa9z h1 {
   margin: 0;
   color: #444;
   font-weight: 300;
   font-size: 48px;
 }
-.container-U3ibPz .header-ywc7Hh h2 {
+.container-G44ZVx .header-yeRa9z h2 {
   margin: 0;
   color: #666;
   font-weight: 300;
   font-size: 20px;
 }
-.container-U3ibPz .translate-jjQfCK {
+.container-G44ZVx .translate-lq1WRH {
   display: flex;
   flex: 1;
 }
-.container-U3ibPz .translate-jjQfCK .wrap-cXZG3_ {
+.container-G44ZVx .translate-lq1WRH .wrap-Xzaseo {
   flex: 1;
   margin: 16px 32px 64px 32px;
   position: relative;
   display: flex;
   flex-direction: column;
 }
-.container-U3ibPz .translate-jjQfCK .wrap-cXZG3_ h3 {
+.container-G44ZVx .translate-lq1WRH .wrap-Xzaseo h3 {
   font-size: 20px;
   margin: 0 0 4px;
   font-weight: 600;
 }
-.container-U3ibPz .translate-jjQfCK .wrap-cXZG3_ .textArea-gOVk_S {
+.container-G44ZVx .translate-lq1WRH .wrap-Xzaseo .textArea-WRqCMt {
   flex: 1;
   resize: none;
   height: auto;
@@ -89,19 +89,19 @@ a {
   font-size: 20px;
   border-radius: 2px;
 }
-.container-U3ibPz .translate-jjQfCK .wrap-cXZG3_ .btn-Am_iV3 {
+.container-G44ZVx .translate-lq1WRH .wrap-Xzaseo .btn-XK9rbx {
   position: absolute;
   bottom: 8px;
   right: 8px;
 }
-.container-U3ibPz .translate-jjQfCK .wrap-cXZG3_ .ant-btn {
+.container-G44ZVx .translate-lq1WRH .wrap-Xzaseo .ant-btn {
   border-radius: 2px;
 }
-.container-U3ibPz .translate-jjQfCK .wrap-cXZG3_ .ant-btn-default.ant-btn-background-ghost {
+.container-G44ZVx .translate-lq1WRH .wrap-Xzaseo .ant-btn-default.ant-btn-background-ghost {
   color: #aaa;
   border-color: #aaa;
 }
-.container-U3ibPz .translate-jjQfCK .wrap-cXZG3_ .ant-btn-default.ant-btn-background-ghost:hover {
+.container-G44ZVx .translate-lq1WRH .wrap-Xzaseo .ant-btn-default.ant-btn-background-ghost:hover {
   color: #4096ff;
   border-color: #4096ff;
 }
